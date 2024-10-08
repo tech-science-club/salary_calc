@@ -1,6 +1,0 @@
-module calc_salary
-typeinfo appcalc_salary.qmltypes
-prefer :/qt/qml/calc_salary/
-Main 1.0 Main.qml
-Intro 1.0 Intro.qml
-

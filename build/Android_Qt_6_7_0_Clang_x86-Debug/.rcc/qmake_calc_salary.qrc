@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/calc_salary">
-    <file alias="qmldir">C:/Users/admin/Documents/calc_salary/build/Android_Qt_6_7_0_Clang_x86-Debug/calc_salary/qmldir</file>
-  </qresource>
-</RCC>
-
