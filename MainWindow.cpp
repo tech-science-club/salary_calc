@@ -16,7 +16,6 @@ void MainWindow::get_salary(QString salary)
 void MainWindow::get_pension(QString pension)
 {
     Pension = pension.toInt();
-    //qDebug()<<pension;
 }
 
 void MainWindow::get_atp(QString atp)
@@ -27,7 +26,6 @@ void MainWindow::get_atp(QString atp)
 void MainWindow::get_fradrag(QString fradrag)
 {
     Fradrag = fradrag.toInt();
-    //qDebug()<<fradrag;
 }
 
 void MainWindow::count_wage()

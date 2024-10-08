@@ -7,4 +7,3 @@ Filling everything in press "count" and get your outcome.
 
 The app does not collect, pass any personal data to the web.
 
-
