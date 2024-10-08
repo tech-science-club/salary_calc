@@ -1,0 +1,3 @@
+module source
+
+singleton CustomFonts 1.0 CustomFonts.qml

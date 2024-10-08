@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>fonts/Expansiva.otf</file>
+        <file>fonts/ExpansivaBold.otf</file>
+        <file>fonts/ExpansivaBoldItalic.otf</file>
+        <file>fonts/ExpansivaItalic.otf</file>
+        <file>fonts/ArtsyNight.otf</file>
+        <file>fonts/ROSEMERO.ttf</file>
+    </qresource>
+</RCC>
