@@ -33,8 +33,10 @@ void MainWindow::get_fradrag(QString fradrag)
 void MainWindow::count_wage()
 
 {
-
-    if (Salary*0.92<588900/12){
+    if (Salary <= Fradrag){
+        outcom = (Salary - ATP - Pension)*0.92;
+    }
+    else if (Salary*0.92<588900/12){
 
         outcom = 0.57*(Salary-ATP-Pension)+0.38*Fradrag;
     }

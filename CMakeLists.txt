@@ -19,7 +19,7 @@ qt_add_qml_module(appcalc_salary
         Main.qml
         Intro.qml
     SOURCES
-        settings.h
+
         MainWindow.h
         MainWindow.cpp
         Popup.cpp
@@ -66,6 +66,7 @@ qt_add_qml_module(appcalc_salary
         RESOURCES images/ferie.png
         RESOURCES images/dkk.png
         RESOURCES images/salary.png
+        RESOURCES README.md
 
 )
 
