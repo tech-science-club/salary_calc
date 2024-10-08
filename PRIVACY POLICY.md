@@ -1,8 +1,8 @@
-# APP PRIVACY POLICY
+<div align="center"> # APP PRIVACY POLICY </div>
 
-## Danish salary calculator
+<div align="center">## Danish salary calculator </div>
 
-                      Last updated [09.10.2024]
+<div align="center">Last updated [09.10.2024] </div>
 
  We respects the privacy of our users. This Privacy Policy explains how we collect, use, 
 disclose, and safeguard your information when you visit our mobile communication application.  
