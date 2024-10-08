@@ -1,4 +1,5 @@
                  # APP PRIVACY POLICY.
+
 		 ## Danish salary calculator.
 
                       Last updated [09.10.2024]
