@@ -1,4 +1,4 @@
-<div align="center"> # APP PRIVACY POLICY </div>
+<center> # APP PRIVACY POLICY </center>
 
 <div align="center">## Danish salary calculator </div>
 
