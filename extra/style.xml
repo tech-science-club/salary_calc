@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-    <resources>
-        <style name="splashscreentheme" parent="@android:style/Theme.Black.NoTitleBar">
-            <!-- Show a splash screen on the activity. Automatically removed when
-                 Flutter draws its first frame -->
-            <item name="android:windowBackground">@drawable/splashscreen</item>
-            <item name="android:windowFullscreen">true</item> 
-        </style>
-    </resources>
