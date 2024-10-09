@@ -1,8 +1,10 @@
-<center> # APP PRIVACY POLICY </center>
+<div align="center"><h1>APP PRIVACY POLICY </h1> </div>
 
-<div align="center">## Danish salary calculator </div>
+<div align="center"><h2> Danish salary calculator </h2></div>
 
-<div align="center">Last updated [09.10.2024] </div>
+<div align="center"><h3>Last updated [09.10.2024] </h3></div>
+
+<br><br> <!-- Adds two blank lines -->
 
  We respects the privacy of our users. This Privacy Policy explains how we collect, use, 
 disclose, and safeguard your information when you visit our mobile communication application.  
@@ -21,78 +23,59 @@ the Application, including any in-game virtual items, which may also collect and
 you.  We are not responsible for any of the data collected by any such third party. 
 
 COLLECTION OF YOUR INFORMATION
+
 We do not collect information about you in a variety of ways. The App, Danish salary calculator, 
 does not possess features of collecting data. It was created on open source platform as 
-educational project without income purpose.
+educational project without monetisation purpose.
  
-Collection: 
-Personal Data 
-No
-Derivative Data 
-No
- 
+**Collection:** 
+   
+    
+    Personal Data                                No 
 
-Financial Data 
-No
+    Derivative Data                              No
 
-Facebook Permissions 
-No
-
-Data from Social Networks
-No
-
-Geo-Location information: 
-No
-
-Mobile Device Access 
-No
-
-Mobile Device Data 
-No
-
-Push Notifications 
-No
-
-Third-Party Data 
-No
-
-Data from Contests, Giveaways, and Surveys 
-No
+    Financial Data                               No
+ 
+    Facebook Permissions                         No
+ 
+    Data from Social Networks                    No
+  
+    Geo-Location Information                     No
+ 
+    Mobile Device Access                         No
+  
+    Mobile Device Data                           No
+ 
+    Push Notifications                           No
+ 
+    Third-Party Data                             No
+ 
+    Data from Contests, Giveaways, and Surveys   No 
+  
 
 
 
- 
-USAGE OF APP:
-Having an installed app, you have to:
+**USING OF APP**
 
-1.   Launch it.
-2.   Press button in the left bottom corner and read an information about app. 
-3.   Put your data into lines.
-4.   Press "count" button.
-5.   Press "reset" if you want to try more.
-6.   Press right bottom button to quit the app.
 Your personal data going to be wiped out together with app quitting, thus the memory will be cleaned and released.
-Since it is an open source app, the link to GitHub developer page is provided bellow, where you can check source code
+Since it is an open source app, the link to GitHub developer page is provided bellow, where you can check source code.
 
 
+<hr>
+CONTACT US
+<br>
+If you have questions or comments about this Privacy Policy, please contact us:<br> 
+Dmytro Panasenko<br>
+Sandby 23<br>
+4520, Svinninge<br>
+Denmark<br>
++45 91 98 14 66<br>
+dmitry.panasenko.chemlab@gmail.com<br>
 
+Developer github page<br>
+https://github.com/tech-science-club/salary_calc<br>
 
-
-CONTACT US 
-If you have questions or comments about this Privacy Policy, please contact us: 
-Dmytro Panasenko
-Sandby 23
-4520, Svinninge
-Denmark
-+45 91 98 14 66 
-dmitry.panasenko.chemlab@gmail.com
-
-Developer github page
-https://github.com/tech-science-club/salary_calc
-
-
-Emails and Communications
-If you have any questions about the app and its functionality, you may feel free to contact with us 
-via e-mail or mobile
+If you have any questions about the app and its functionality, feel free to contact with us via e-mail or mobile<br>
 
 
