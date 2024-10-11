@@ -849,45 +849,81 @@ Window {
             }
 
             Button {
+
+                Text{
+                    text: "->"
+                    anchors.centerIn: parent
+                    font.pixelSize: row5.width/20
+
+                }
                 id: button
                 x: parent.width*0.9
                 y: parent.height*0.1
                 width: parent.width*0.1
                 height: parent.height*0.9
-                icon.height:150
-                icon.width: 150
-                icon.color: "#00000000"
-                icon.source: "images/exit2.png"
+                //icon.height:150
+                //icon.width: 150
+                //icon.color: "#00000000"
+                //icon.source: "images/exit2.png"
                 onClicked:{
                     Qt.quit()
                 }
             }
             Button {
+                Text{
+                    text: "i"
+                    anchors.centerIn: parent
+                    font.pixelSize: row5.width/20
+                    font.italic: true
+
+                }
+                //font.italic: true
+
+
                 id: button_info
                 x: 0
                 y: parent.height*0.1
                 width: parent.width*0.1
                 height: parent.height*0.9
-                icon.height: parent.height
-                icon.width: parent.height
-                icon.color: "#00000000"
-                icon.source: "images/info.png"
+
+                /*background:
+                    Image {
+                    source: "images/info.png"
+                    width: parent.width*0.75
+                    height: parent.width*0.75
+                }*/
+
+
+                // icon.name: "info"
+                // icon.height: parent.implisitHeight
+                // icon.width: parent.implicitWidth
+                // icon.color: "#00000000"
+                //icon.source: "images/info.png"
                 onClicked:{
                     info_dialog.open()
                 }
+                /*Image {
+                    id: info_icon
+                    x: parent.width/2-width/2
+                    y: parent.height*0.5-height*0.5
+                    width: parent.width*0.75
+                    height: parent.height*0.75
+                    visible: true
+                    source: "images/info.png"
+                    fillMode: Image.PreserveAspectFit
+                }*/
 
             }
             MessageDialog {
+
                 id: info_dialog
-
-                title: "Brief information"
-
-                informativeText: "App-calculator to get salary yield after taxes deduction.\n
+                text: "Get know a net salary after tax deduction."
+                informativeText: "
 Type your personal data in following text fields:\n
 - input gross salary.\n
 - Pension Investments. Enter the amount of invests in pension funds. If not applicable, they can set this value to 0.\n
 - ATP (Arbejdsmarkedets Tillægspension): This is a fixed value (99 DKK for the year 2024), leave this field or enter 0.\n
--Personal Tax Deduction Level (“fradrag” in Danish).\n
+- Personal Tax Deduction Level (“fradrag” in Danish).\n
 This app does not collect any personal information. \n
 
 With best regards, developer."
