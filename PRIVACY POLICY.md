@@ -67,10 +67,6 @@ CONTACT US
 <br>
 If you have questions or comments about this Privacy Policy, please contact us:<br> 
 Dmytro Panasenko<br>
-Sandby 23<br>
-4520, Svinninge<br>
-Denmark<br>
-+45 91 98 14 66<br>
 dmitry.panasenko.chemlab@gmail.com<br>
 
 Developer github page<br>
